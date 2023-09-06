@@ -12,6 +12,7 @@ Poultry farm Druzhba  October 2020 - Present  electrician for equipment repair a
 EDUCATION 
 
 Belarussian State Agrarian Technical University, Minsk, Belarus  January 2019 power engineer
+
 “Software Functional Testing" course by Artsiom Rusau  September 2023
 
 SKILLS & OTHER  
