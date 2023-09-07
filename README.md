@@ -19,7 +19,7 @@ SKILLS & OTHER
 
 Skills:
 
-- Experience in manual and automated software testing
+- Experience in manual  software testing
 - Knowledge of software testing methodologies and tools
 - Ability to plan and execute test cases and test suites
 - Familiarity with JIRA and other issue tracking software
